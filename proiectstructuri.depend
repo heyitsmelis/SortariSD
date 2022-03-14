@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647279201 source:c:\users\laptop\documents\proiectstructuri\main.cpp
+	<iostream>
+	<chrono>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<algorithm>
+	<queue>
+
